@@ -1,0 +1,132 @@
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60560 flags= frag=0 ttl=128 proto=udp chksum=0xc973 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=19115 flags=DF frag=0 ttl=64 proto=udp chksum=0x6b1c src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=40546 dport=domain len=58 chksum=0x8523 |<DNS  id=24259 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60561 flags= frag=0 ttl=128 proto=udp chksum=0xc972 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60562 flags= frag=0 ttl=128 proto=udp chksum=0xc971 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60563 flags= frag=0 ttl=128 proto=udp chksum=0xc970 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=d8:3b:bf:5f:fb:d1 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=who-has hwsrc=d8:3b:bf:5f:fb:d1 psrc=192.168.1.147 hwdst=00:00:00:00:00:00 pdst=192.168.1.137 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=is-at hwsrc=08:00:27:ad:25:87 psrc=192.168.1.137 hwdst=d8:3b:bf:5f:fb:d1 pdst=192.168.1.147 |>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=46053 flags=DF frag=0 ttl=64 proto=udp chksum=0x1e2 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=34982 dport=domain len=58 chksum=0x8523 |<DNS  id=61185 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=46054 flags=DF frag=0 ttl=64 proto=udp chksum=0x1e1 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=34982 dport=domain len=58 chksum=0x8523 |<DNS  id=31488 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60564 flags= frag=0 ttl=128 proto=udp chksum=0xc96f src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60565 flags= frag=0 ttl=128 proto=udp chksum=0xc96e src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=18809 flags=DF frag=0 ttl=64 proto=udp chksum=0x6c4e src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=38635 dport=domain len=58 chksum=0x8523 |<DNS  id=20424 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=18810 flags=DF frag=0 ttl=64 proto=udp chksum=0x6c4d src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=38635 dport=domain len=58 chksum=0x8523 |<DNS  id=36297 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=19116 flags=DF frag=0 ttl=64 proto=udp chksum=0x6b1b src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=40546 dport=domain len=58 chksum=0x8523 |<DNS  id=24259 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60566 flags= frag=0 ttl=128 proto=udp chksum=0xc96d src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=35665 flags=DF frag=0 ttl=64 proto=udp chksum=0x2a76 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=47074 dport=domain len=58 chksum=0x8523 |<DNS  id=41258 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60567 flags= frag=0 ttl=128 proto=udp chksum=0xc96c src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=08:00:27:ad:25:87 src=d8:3b:bf:5f:fb:d1 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=is-at hwsrc=d8:3b:bf:5f:fb:d1 psrc=192.168.1.254 hwdst=08:00:27:ad:25:87 pdst=192.168.1.137 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60568 flags= frag=0 ttl=128 proto=udp chksum=0xc96b src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=3984 flags=DF frag=0 ttl=64 proto=udp chksum=0xa632 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=54061 dport=domain len=63 chksum=0x8528 |<DNS  id=36800 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=3985 flags=DF frag=0 ttl=64 proto=udp chksum=0xa631 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=54061 dport=domain len=63 chksum=0x8528 |<DNS  id=31685 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60569 flags= frag=0 ttl=128 proto=udp chksum=0xc96a src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60570 flags= frag=0 ttl=128 proto=udp chksum=0xc969 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=18811 flags=DF frag=0 ttl=64 proto=udp chksum=0x6c4c src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=38635 dport=domain len=58 chksum=0x8523 |<DNS  id=20424 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=18812 flags=DF frag=0 ttl=64 proto=udp chksum=0x6c4b src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=38635 dport=domain len=58 chksum=0x8523 |<DNS  id=36297 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=54538 flags=DF frag=0 ttl=64 proto=udp chksum=0xe0b7 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=47589 dport=domain len=63 chksum=0x8528 |<DNS  id=49194 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60571 flags= frag=0 ttl=128 proto=udp chksum=0xc968 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=35666 flags=DF frag=0 ttl=64 proto=udp chksum=0x2a75 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=47074 dport=domain len=58 chksum=0x8523 |<DNS  id=41258 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60572 flags= frag=0 ttl=128 proto=udp chksum=0xc967 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60573 flags= frag=0 ttl=128 proto=udp chksum=0xc966 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=3986 flags=DF frag=0 ttl=64 proto=udp chksum=0xa630 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=54061 dport=domain len=63 chksum=0x8528 |<DNS  id=36800 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=3987 flags=DF frag=0 ttl=64 proto=udp chksum=0xa62f src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=54061 dport=domain len=63 chksum=0x8528 |<DNS  id=31685 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60574 flags= frag=0 ttl=128 proto=udp chksum=0xc965 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60575 flags= frag=0 ttl=128 proto=udp chksum=0xc964 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=12820 flags=DF frag=0 ttl=64 proto=udp chksum=0x83ae src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=52755 dport=domain len=63 chksum=0x8528 |<DNS  id=50187 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=12821 flags=DF frag=0 ttl=64 proto=udp chksum=0x83ad src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=52755 dport=domain len=63 chksum=0x8528 |<DNS  id=41992 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=54539 flags=DF frag=0 ttl=64 proto=udp chksum=0xe0b6 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=47589 dport=domain len=63 chksum=0x8528 |<DNS  id=49194 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60576 flags= frag=0 ttl=128 proto=udp chksum=0xc963 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=51602 flags=DF frag=0 ttl=64 proto=udp chksum=0xec2f src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=49333 dport=domain len=63 chksum=0x8528 |<DNS  id=12278 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60577 flags= frag=0 ttl=128 proto=udp chksum=0xc962 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=08:00:27:ad:25:87 src=d8:3b:bf:5f:fb:d1 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=is-at hwsrc=d8:3b:bf:5f:fb:d1 psrc=192.168.1.254 hwdst=08:00:27:ad:25:87 pdst=192.168.1.137 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60578 flags= frag=0 ttl=128 proto=udp chksum=0xc961 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=34257 flags=DF frag=0 ttl=64 proto=udp chksum=0x2ff6 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=59983 dport=domain len=58 chksum=0x8523 |<DNS  id=14408 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60579 flags= frag=0 ttl=128 proto=udp chksum=0xc960 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60580 flags= frag=0 ttl=128 proto=udp chksum=0xc95f src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=12822 flags=DF frag=0 ttl=64 proto=udp chksum=0x83ac src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=52755 dport=domain len=63 chksum=0x8528 |<DNS  id=50187 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=12823 flags=DF frag=0 ttl=64 proto=udp chksum=0x83ab src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=52755 dport=domain len=63 chksum=0x8528 |<DNS  id=41992 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60581 flags= frag=0 ttl=128 proto=udp chksum=0xc95e src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=51603 flags=DF frag=0 ttl=64 proto=udp chksum=0xec2e src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=49333 dport=domain len=63 chksum=0x8528 |<DNS  id=12278 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=58694 flags=DF frag=0 ttl=64 proto=udp chksum=0xd080 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=42572 dport=domain len=58 chksum=0x8523 |<DNS  id=30254 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=58695 flags=DF frag=0 ttl=64 proto=udp chksum=0xd07f src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=42572 dport=domain len=58 chksum=0x8523 |<DNS  id=21032 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60582 flags= frag=0 ttl=128 proto=udp chksum=0xc95d src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60583 flags= frag=0 ttl=128 proto=udp chksum=0xc95c src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=34258 flags=DF frag=0 ttl=64 proto=udp chksum=0x2ff5 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=59983 dport=domain len=58 chksum=0x8523 |<DNS  id=14408 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60584 flags= frag=0 ttl=128 proto=udp chksum=0xc95b src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60585 flags= frag=0 ttl=128 proto=udp chksum=0xc95a src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60586 flags= frag=0 ttl=128 proto=udp chksum=0xc959 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=58696 flags=DF frag=0 ttl=64 proto=udp chksum=0xd07e src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=42572 dport=domain len=58 chksum=0x8523 |<DNS  id=30254 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=78 id=58697 flags=DF frag=0 ttl=64 proto=udp chksum=0xd07d src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=42572 dport=domain len=58 chksum=0x8523 |<DNS  id=21032 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.' qtype=AAAA qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60587 flags= frag=0 ttl=128 proto=udp chksum=0xc958 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=08:00:27:ad:25:87 src=d8:3b:bf:5f:fb:d1 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=is-at hwsrc=d8:3b:bf:5f:fb:d1 psrc=192.168.1.254 hwdst=08:00:27:ad:25:87 pdst=192.168.1.137 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60588 flags= frag=0 ttl=128 proto=udp chksum=0xc957 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=d8:3b:bf:5f:fb:d1 src=08:00:27:ad:25:87 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=83 id=30718 flags=DF frag=0 ttl=64 proto=udp chksum=0x3dc4 src=192.168.1.137 dst=192.168.1.254 |<UDP  sport=46998 dport=domain len=63 chksum=0x8528 |<DNS  id=53711 qr=0 opcode=QUERY aa=0 tc=0 rd=1 ra=0 z=0 ad=0 cd=0 rcode=ok qdcount=1 ancount=0 nscount=0 arcount=0 qd=[<DNSQR  qname=b'mobile.events.data.microsoft.com.home.' qtype=A qclass=IN |>] |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60589 flags= frag=0 ttl=128 proto=udp chksum=0xc956 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=20:f1:9e:cb:0d:30 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=who-has hwsrc=20:f1:9e:cb:0d:30 psrc=192.168.1.254 hwdst=00:00:00:00:00:00 pdst=192.168.1.107 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
+
+<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=60590 flags= frag=0 ttl=128 proto=udp chksum=0xc955 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
+
