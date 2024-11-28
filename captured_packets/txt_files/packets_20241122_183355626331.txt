@@ -1,4 +1,0 @@
-<Ether  dst=ff:ff:ff:ff:ff:ff src=14:18:c3:e8:87:17 type=IPv4 |<IP  version=4 ihl=5 tos=0x0 len=46 id=57363 flags= frag=0 ttl=128 proto=udp chksum=0xd5f0 src=192.168.1.107 dst=192.168.1.255 |<UDP  sport=2008 dport=2008 len=26 chksum=0x7115 |<Raw  load=b'BC 13itaachiUchiha' |>>>>
-
-<Ether  dst=ff:ff:ff:ff:ff:ff src=20:f1:9e:cb:0d:30 type=ARP |<ARP  hwtype=Ethernet (10Mb) ptype=IPv4 hwlen=6 plen=4 op=who-has hwsrc=20:f1:9e:cb:0d:30 psrc=192.168.1.254 hwdst=00:00:00:00:00:00 pdst=192.168.1.137 |<Padding  load=b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' |>>>
-
