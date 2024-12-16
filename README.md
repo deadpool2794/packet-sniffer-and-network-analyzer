@@ -21,23 +21,13 @@ This project is a lightweight yet effective **Packet Sniffer and Traffic Analyze
 - `attrs`: For class attribute validation.
 - **Others:** `aiohappyeyeballs`, `aiosignal`, `frozenlist`, `multidict`, `propcache`, `idna`.
 
-## Testing
 
-### 1. **Wireshark for Packet Verification**
-The tool was tested alongside Wireshark to ensure consistency in capturing packets.
-
-### 2. **ARP Poisoning Simulation**
-Simulated ARP poisoning attacks using Ettercap validated the detection mechanism.
-
-### Results:
-- Accurate real-time packet capture.
-- Successful detection of ARP poisoning events.
 
 ## Usage
 
 ### Requirements
 - Python 3.x
-- Kali Linux environment
+- Any Linux environment
 - Install dependencies from `requirements.txt`:
 
 ```bash
@@ -61,11 +51,6 @@ pip install -r requirements.txt
    ```bash
    sudo python -m build.cli
    ```
-
-
-## Conclusion
-
-The Packet Sniffer and Traffic Analyzer provides researchers and network administrators with an efficient and user-friendly tool to monitor traffic, detect threats, and diagnose network issues.
 
 ## References
 
