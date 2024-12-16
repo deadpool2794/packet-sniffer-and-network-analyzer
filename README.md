@@ -1,6 +1,3 @@
-Here is the `README.md` file for your project, based on the provided report:  
-
-
 # Packet Sniffer and Traffic Analyzer
 
 ## Overview
@@ -81,5 +78,3 @@ The Packet Sniffer and Traffic Analyzer provides researchers and network adminis
 **Author**: Alim Khan Abdul  
 
 ```
-
-This `README.md` file covers key project aspects, including its purpose, features, dependencies, testing, and usage instructions. Let me know if you'd like further customization or additional sections!
